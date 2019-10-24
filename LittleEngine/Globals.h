@@ -19,3 +19,4 @@ enum update_status
 #define FULLSCREEN false
 #define VSYNC true
 #define TITLE "Super Awesome Engine"
+#define PI 3.14159265359
